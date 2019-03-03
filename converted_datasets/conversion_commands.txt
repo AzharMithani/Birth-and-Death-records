@@ -1,0 +1,9 @@
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2010.xlsx" 2010 birth_and_death_2010.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2011.xlsx" 2011 birth_and_death_2011.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2012.xlsx" 2012 birth_and_death_2012.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2013..xlsx" 2013 birth_and_death_2013.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2014.xlsx" 2014 birth_and_death_2014.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2015..xlsx" 2015 birth_and_death_2015.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2016..xlsx" 2016 birth_and_death_2016.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2017..xlsx" 2017 birth_and_death_2017.csv
+python xlsv_to_csv.py ../datasets/"List of Birth And Death rate for the year 2018.xlsx" 2018 birth_and_death_2018.csv

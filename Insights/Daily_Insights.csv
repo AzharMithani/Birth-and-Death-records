@@ -1,0 +1,6 @@
+Data,male_births,female_births,total_births,male_deaths,female_deaths,total_deaths
+Mean,78,72,150,45,31,77
+Maximum,173,135,298,79,62,123
+Max_Date,2011-11-11, 2017-09-21,2011-11-11,2010-12-22, 2016-08-28, 2016-08-09
+Minimum,31,28,68,8,5,19
+Min_Date, 2018-04-29, 2018-04-28, 2018-04-29, 2017-07-09, 2017-07-05, 2017-07-07

@@ -1,0 +1,6 @@
+Data,male_births,female_births,total_births,male_deaths,female_deaths,total_deaths
+Mean,2388,2201,4589,1390,969,2359
+Maximum,2910,2730,5640,1869,1348,3217
+Max_Month,"Oct, 2013","Oct, 2013","Oct, 2013","Aug, 2016","Aug, 2016","Aug, 2016"
+Minimum,1925,1717,3662,678,499,1177
+Min_Month,"Feb, 2010","Jun, 2010","Feb, 2010","Jul, 2017","Jul, 2017","Jul, 2017"
